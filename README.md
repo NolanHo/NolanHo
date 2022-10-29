@@ -1,6 +1,7 @@
 ### Hi, I'm Nolan.Ho 👋
-😄 Pronouns: He
-🌱 I’m currently learning: Backend
+-- 😄 Pronouns: He
+
+-- 🌱 I’m currently learning: Backend
 
 <!--
 **KuJyoAi/KuJyoAi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
