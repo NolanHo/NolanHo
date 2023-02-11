@@ -1,4 +1,4 @@
-### Hi, I'm Nolan.Ho 👋
+### Hi, I'm Nolan👋
 -- 😄 Pronouns: He
 
 -- 🌱 I’m currently learning: Backend
