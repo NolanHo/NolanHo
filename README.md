@@ -1,6 +1,4 @@
 ## Hi, I'm Nolan.Ho👋
-  Welcome to my profile ![Visitor Count]()
-
   
 -- 🔭 I'am a undergraduate major in cryptography in HUST
 
