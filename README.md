@@ -16,9 +16,8 @@
 <br/>
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=NolanHo&count_private=true&show_icons=true&hide_border=true" alt="Nolan's github stats" /> 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NolanHo&hide=Assembly&layout=compact&hide_border=true" /> |
-| ------------- | ------------- |
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=NolanHo&count_private=true&show_icons=true&hide_border=true" alt="Nolan's github stats" />
+![NolanHo's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=NolanHo&show_icons=true&count_private=true&theme=gotham)
 <div align="center">
   <img src="https://profile-counter.glitch.me/NolanHo/count.svg" alt="NolanHo's count"/>
   <p>Thanks for visit!</p>
