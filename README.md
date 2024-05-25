@@ -16,9 +16,9 @@
 <br/>
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=KuJyoAi&count_private=true&show_icons=true&hide_border=true" alt="Nolan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuJyoAi&hide=Assembly&layout=compact&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=NolanHo&count_private=true&show_icons=true&hide_border=true" alt="Nolan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuJyoAi&hide=Assembly&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
 <div align="center">
-  <img src="https://profile-counter.glitch.me/KuJyoAi/count.svg" alt="KuJyoAi's count"/>
+  <img src="https://profile-counter.glitch.me/NolanHo/count.svg" alt="NolanHo's count"/>
   <p>Thanks for visit!</p>
 </div>
