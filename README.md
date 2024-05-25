@@ -2,7 +2,7 @@
   
 -- 🔭 I'am a undergraduate major in cryptography in HUST
 
--- 🌱 I’m currently learning: Full-Stack, Cloud Native, AI Ops, Cryptography, [This is my blog](https://16bit-sensation.com/)
+-- 🌱 I’m currently learning: Cloud Native, AI Ops, Cryptography, [This is my blog](https://16bit-sensation.com/)
 
 
   My interests are:
