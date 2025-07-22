@@ -31,9 +31,6 @@
     <div style="text-align: center;">
         <img src="https://github-readme-stats.vercel.app/api?username=NolanHo&count_private=true&show_icons=true&hide_border=true&theme=onedark"/>  
     </div>
-    <div style="text-align: center;">
-        <img align="center" src="https://profile-counter.glitch.me/NolanHo/count.svg" alt="NolanHo's count"/>
-    </div>
 </div>
 
 <div align="center">
