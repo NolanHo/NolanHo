@@ -26,16 +26,4 @@ My passion lies in **exploring and building complex systems**, from the logical 
 
 <br/>
 
-### 🛠️ My Tech Stack & Stats
-
-<div>
-    <div>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NolanHo&show_icons=true&count_private=true&theme=onedark" alt="NolanHo's Most Used Languages" />
-    </div>
-    <div style="text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api?username=NolanHo&count_private=true&show_icons=true&hide_border=true&theme=onedark"/>  
-    </div>
-</div>
-
-<div align="center">
 
