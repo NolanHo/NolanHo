@@ -11,10 +11,6 @@
 >     &mdash;&mdash;&mdash;《ロクでなし魔術講師と禁忌教典》
 > </p>
 
-<p align="center">
-  <img src="./assets/patchouli.jpg" alt="Patchouli" width="100%" />
-</p>
-
 ### About Me
 
 I'm a **Cryptography** undergraduate at Huazhong University of Science and Technology (HUST).
