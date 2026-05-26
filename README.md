@@ -13,10 +13,9 @@
 
 ### About Me
 
-I'm a Research Scientist at MindLab-Research. My work sits at the intersection of
+I'm a Research Scientist at [Mind Lab](https://macaron.im/mindlab?tab=publications). My work sits at the intersection of
 LLM training and inference infrastructure — building distributed RL training
-systems, optimizing CUDA kernels (attention decode, fused LoRA projection),
-and developing agent tooling.
+systems, LLM training/inference engine, optimizing CUDA kernels, and developing self-envolving agents.
 
 I build things across the stack: distributed training systems for RL, CUDA
 kernels for the hot path, Rust/Go services for the infrastructure layer, and
