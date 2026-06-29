@@ -26,6 +26,6 @@ Megumin devoted her entire life to a single spell — explosion, and nothing els
 ## 📈 GitHub Activity
 
 <p align="center">
+  <img src="profile-summary-card-output/radical/3-stats.svg" alt="NolanHo stats card" width="48%" />
   <img src="profile-summary-card-output/radical/1-repos-per-language.svg" alt="NolanHo top languages" width="48%" />
-  <img src="profile-summary-card-output/radical/2-most-commit-language.svg" alt="NolanHo commit languages" width="48%" />
 </p>
