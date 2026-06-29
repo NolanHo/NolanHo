@@ -6,6 +6,9 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -49,23 +52,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: NolanHo
-        with:
-          CONTRIBUTOR_OPTIONS: '{
-            "max": 20,
-            "width": 1000,
-            "height": 500,
-            "scaling": 12,
-            "fontsize": 14,
-            "gap": 4,
-            "const_height": 20,
-            "no_enter_frame": true
-          }'
 
       # 4. 提交所有变更
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add stats/
-          git diff --staged --quiet || git commit -m "chore: update stats card & snake animation"
+          git add -A
+          git diff --staged --quiet || git commit -m "chore: update stats card, snake & 3d contrib"
           git push
