@@ -41,7 +41,6 @@ jobs:
         with:
           github_user_name: NolanHo
           outputs: |
-            stats/snake-dark.svg?palette=github-dark
             stats/snake-light.svg?palette=github-light
 
       # 3. 提交所有变更
