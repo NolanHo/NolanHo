@@ -2,9 +2,9 @@ name: Generate Stats Cards
 
 on:
   schedule:
-    # 每天 UTC 00:00 运行一次（北京时间 08:00）
-    - cron: '0 0 * * *'
-  workflow_dispatch: # 支持手动触发
+    # 每 6 小时运行一次
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -12,10 +12,33 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate profile summary cards
-        uses: vn7n24fzkq/github-profile-summary-cards@v0.7.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
-        with:
-          USERNAME: NolanHo
-          BRANCH_NAME: master
+      - name: Fetch yourinsights SVG
+        run: |
+          mkdir -p stats
+          URL="https://yourinsights.vercel.app/api/insight?username=NolanHo&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true"
+
+          # 最多重试 5 次，每次等 10 秒
+          for i in 1 2 3 4 5; do
+            echo "Attempt $i..."
+            curl -sL -o stats/insight.svg "$URL" --max-time 60
+            if head -c 4 stats/insight.svg | grep -q "<svg"; then
+              echo "✅ SVG downloaded successfully"
+              break
+            fi
+            echo "❌ Not a valid SVG, retrying in 10s..."
+            rm -f stats/insight.svg
+            sleep 10
+          done
+
+          if [ ! -f stats/insight.svg ]; then
+            echo "❌ All retries failed, keeping existing SVG"
+            exit 0
+          fi
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stats/
+          git diff --staged --quiet || git commit -m "chore: update stats card SVG"
+          git push
