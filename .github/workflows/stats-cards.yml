@@ -12,12 +12,12 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
+      # 1. 下载 yourinsights stats 卡片
       - name: Fetch yourinsights SVG
         run: |
           mkdir -p stats
           URL="https://yourinsights.vercel.app/api/insight?username=NolanHo&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true"
 
-          # 最多重试 5 次，每次等 10 秒
           for i in 1 2 3 4 5; do
             echo "Attempt $i..."
             curl -sL -o stats/insight.svg "$URL" --max-time 60
@@ -35,10 +35,20 @@ jobs:
             exit 0
           fi
 
+      # 2. 生成贪吃蛇贡献图动画
+      - name: Generate snake animation
+        uses: Platane/snk@v3.5.0
+        with:
+          github_user_name: NolanHo
+          outputs: |
+            stats/snake-dark.svg?palette=github-dark
+            stats/snake-light.svg?palette=github-light
+
+      # 3. 提交所有变更
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add stats/
-          git diff --staged --quiet || git commit -m "chore: update stats card SVG"
+          git diff --staged --quiet || git commit -m "chore: update stats card & snake animation"
           git push
