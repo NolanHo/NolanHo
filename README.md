@@ -19,9 +19,15 @@
 
 Megumin devoted her entire life to a single spell — explosion, and nothing else.
 
-> *何か成す者とは歩み続ける愚者である、成せぬ者とは歩めを止めた賢者である*
-> *"成一事者，矢志不渝之愚者；毁一事者，停滞不前之贤者"*
-> <sub>—— ロクでなし魔術講師と禁忌教典</sub>
+<table><tr><td>
+
+*何か成す者とは歩み続ける愚者である、成せぬ者とは歩めを止めた賢者である*
+
+*"成一事者，矢志不渝之愚者；毁一事者，停滞不前之贤者"*
+
+<sub>—— ロクでなし魔術講師と禁忌教典</sub>
+
+</td></tr></table>
 
 ## 📈 GitHub Activity
 
