@@ -1,32 +1,31 @@
 ## Hi, I'm Nolan.Ho
 
-> <p align="left"><em>
->     何か成す者とは歩み続ける愚者である、成せぬ者とは歩めを止めた賢者である
->     <br>
->     成一事者，矢志不渝之愚者；毁一事者，停滞不前之贤者
->     <br>
->     The achievers are the fools who keep walking; the non-achievers are the wise who have stopped.
-> </em></p>
-> <p align="right">
->     &mdash;&mdash;&mdash;《ロクでなし魔術講師と禁忌教典》
-> </p>
+**LLM infrastructure engineer & researcher — making millions of LLMs train and serve reliably.**
 
-### About Me
+## 🧭 About Me
 
-I'm a Research Scientist at [Mind Lab](https://macaron.im/mindlab?tab=publications). My work sits at the intersection of
-LLM training and inference infrastructure — building distributed RL training
-systems, LLM training/inference engine, optimizing CUDA kernels, and developing self-envolving agents.
+- 🔬 Research Scientist & Infra Lead @ [Mind Lab](https://macaron.im/mindlab) — building managed infrastructure for training and serving millions of LLMs. My work spans distributed RL training systems, large-scale LoRA training, CUDA kernel optimization, KV cache storage, and self-evolving agent infrastructure
+- 🎓 Cryptography grad from [HUST](https://hust.edu.cn) (华中科技大学) · Co-founded NoEdgeAI / Doc2X (backed by MiraclePlus)
+- 💼 Ex-[DeepSeek](https://deepseek.com) SRE · Ex-[ByteDance / Volcengine](https://www.volcengine.com/) Storage Engineer
+- 💻 **Rust** · **Go** · **TypeScript** · **Python** · **CUDA** — distributed systems, LLM training/inference, KV cache, RL infrastructure
+- 🌐 From engineering to research — making complex systems run reliably, discovering new problems along the way
+- 🎮 Also: anime, investments, systems theory, cognitive science
 
-I build things across the stack: distributed training systems for RL, CUDA
-kernels for the hot path, Rust/Go services for the infrastructure layer, and
-TypeScript tooling for the agent ecosystem.
-
-- Currently building: distributed RL training service, LoRA fused kernel
-  optimization, LLM KV cache storage (Rust), persistent PTY agent tooling
-- Core interests: RL training infrastructure, CUDA kernel optimization,
-  distributed systems, LLM inference
-- Languages: Rust, Go, TypeScript, Python, CUDA
+## 🔥 Spirit
 
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=NolanHo&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="NolanHo stats card" width="100%" />
+  <img src="megumin.png" alt="Megumin — one spell, one path" width="280" />
+</p>
+
+Megumin devoted her entire life to a single spell — explosion, and nothing else.
+
+> *何か成す者とは歩み続ける愚者である、成せぬ者とは歩めを止めた賢者である*
+> *"成一事者，矢志不渝之愚者；毁一事者，停滞不前之贤者"*
+> <sub>—— ロクでなし魔術講師と禁忌教典</sub>
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="profile-summary-cards/stats.svg" alt="NolanHo stats card" width="48%" />
+  <img src="profile-summary-cards/repos-per-language.svg" alt="NolanHo top languages" width="48%" />
 </p>
