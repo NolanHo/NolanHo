@@ -29,6 +29,31 @@ Megumin devoted her entire life to a single spell — explosion, and nothing els
 
 </td></tr></table>
 
+<details>
+<summary>💥 Explosion Chant</summary>
+
+*黒より黒く　闇より暗き漆黒に*
+比黑色还要黑，暗之漆黑
+
+*我が深紅の混淆を望みたもう*
+融合著我之真红吧
+
+*覚醒のとき来たれり*
+觉醒的时刻已经到来
+
+*無謬の境界に落ちし理*
+坠入无谬之境界
+
+*無行の歪みとなりて*
+形成无形之扭曲
+
+*現出せよ！*
+出现吧！
+
+**Explosion!!**
+
+</details>
+
 ## 📈 GitHub Activity
 
 <p align="center">
