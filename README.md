@@ -36,9 +36,5 @@ Megumin devoted her entire life to a single spell — explosion, and nothing els
 </p>
 
 <p align="center">
-  <img src="stats/snake-dark.svg" alt="Snake contribution animation" width="100%" />
-  <details>
-    <summary>🐍 Snake animation</summary>
-    <img src="stats/snake-light.svg" alt="Snake contribution animation (light)" width="100%" />
-  </details>
+  <img src="stats/snake-light.svg" alt="Snake contribution animation" width="100%" />
 </p>
