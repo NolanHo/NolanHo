@@ -43,7 +43,25 @@ jobs:
           outputs: |
             stats/snake-light.svg?palette=github-light
 
-      # 3. 提交所有变更
+      # 3. 生成 3D 立体贡献图
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          USERNAME: NolanHo
+        with:
+          CONTRIBUTOR_OPTIONS: '{
+            "max": 20,
+            "width": 1000,
+            "height": 500,
+            "scaling": 12,
+            "fontsize": 14,
+            "gap": 4,
+            "const_height": 20,
+            "no_enter_frame": true
+          }'
+
+      # 4. 提交所有变更
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
