@@ -101,7 +101,7 @@
     </g>
   
           <text x="28" y="13" font-size="14" fill="#f8f8f2" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.3">
-            7,197 contributions in the last 12 months
+            7,196 contributions in the last 12 months
           </text>
         </g>
         
@@ -184,7 +184,7 @@
     <g transform="translate(0, 0) scale(1)">
       <path fill="#34d399" d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z" />
     </g>
-  <text x="26" y="12" font-size="13" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.3">Contributions (12mo)</text><text x="230" y="12" font-size="14" font-weight="600" fill="#f8f8f2" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" text-anchor="end" letter-spacing="0.2">7,197</text></g><g transform="translate(0, 54)">
+  <text x="26" y="12" font-size="13" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.3">Contributions (12mo)</text><text x="230" y="12" font-size="14" font-weight="600" fill="#f8f8f2" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" text-anchor="end" letter-spacing="0.2">7,196</text></g><g transform="translate(0, 54)">
     <g transform="translate(0, 0) scale(1)">
       <path fill="#a78bfa" d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z" />
     </g>
@@ -249,7 +249,7 @@
           <circle cx="0" cy="0" r="32" fill="none" stroke="#fe428e" stroke-width="5" opacity="0.4"/>
           <circle cx="0" cy="0" r="32" fill="none" stroke="#f8d847" stroke-width="5" 
                   stroke-dasharray="201.06192982974676" 
-                  stroke-dashoffset="0"
+                  stroke-dashoffset="201.06192982974676"
                   transform="rotate(-90)"
                   stroke-linecap="round"/>
           <g transform="translate(-10, -42)">
@@ -260,7 +260,7 @@
   
           </g>
           <text x="0" y="8" text-anchor="middle" font-size="22" font-weight="700" fill="#f8f8f2" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.3">
-            147
+            0
           </text>
         </g>
         
@@ -268,7 +268,7 @@
           Current Streak
         </text>
         <text x="123" y="126" text-anchor="middle" font-size="10" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" opacity="0.7" letter-spacing="0.2">
-          Mar 1 - Jul 25, 2026
+          No active streak
         </text>
       </g>
       
@@ -312,10 +312,10 @@
       </g>
       <g transform="translate(52, 62)">
         <defs><linearGradient id="graphGradient" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" style="stop-color:#f8d847;stop-opacity:0.3"/><stop offset="100%" style="stop-color:#f8d847;stop-opacity:0.02"/></linearGradient></defs>
-        <path d="M 0 64 L 23.333333333333332 54.66666666666667 L 46.666666666666664 66.66666666666667 L 70 66.66666666666667 L 93.33333333333333 78 L 116.66666666666666 76 L 140 75.33333333333333 L 163.33333333333334 66 L 186.66666666666666 73.33333333333333 L 210 72.66666666666667 L 233.33333333333331 67.33333333333333 L 256.66666666666663 77.33333333333333 L 280 40 L 303.33333333333337 72.66666666666667 L 326.6666666666667 60.666666666666664 L 350 42 L 373.3333333333333 28 L 396.66666666666663 45.33333333333333 L 420 10 L 443.3333333333333 39.33333333333333 L 466.66666666666663 44.66666666666667 L 489.99999999999994 58 L 513.3333333333333 46.66666666666667 L 536.6666666666667 40.666666666666664 L 560 47.333333333333336 L 583.3333333333334 64.66666666666667 L 606.6666666666667 75.33333333333333 L 630 61.33333333333333 L 653.3333333333334 58.666666666666664 L 676.6666666666666 72 L 700 80 L 700 80 L 0 80 Z" fill="url(#graphGradient)"/>
-        <path d="M 0 64 L 23.333333333333332 54.66666666666667 L 46.666666666666664 66.66666666666667 L 70 66.66666666666667 L 93.33333333333333 78 L 116.66666666666666 76 L 140 75.33333333333333 L 163.33333333333334 66 L 186.66666666666666 73.33333333333333 L 210 72.66666666666667 L 233.33333333333331 67.33333333333333 L 256.66666666666663 77.33333333333333 L 280 40 L 303.33333333333337 72.66666666666667 L 326.6666666666667 60.666666666666664 L 350 42 L 373.3333333333333 28 L 396.66666666666663 45.33333333333333 L 420 10 L 443.3333333333333 39.33333333333333 L 466.66666666666663 44.66666666666667 L 489.99999999999994 58 L 513.3333333333333 46.66666666666667 L 536.6666666666667 40.666666666666664 L 560 47.333333333333336 L 583.3333333333334 64.66666666666667 L 606.6666666666667 75.33333333333333 L 630 61.33333333333333 L 653.3333333333334 58.666666666666664 L 676.6666666666666 72 L 700 80" fill="none" stroke="#f8d847" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-        <circle cx="0" cy="64" r="4" fill="#f8d847" stroke="#1a1b27" stroke-width="2"/><circle cx="116.66666666666666" cy="76" r="4" fill="#f8d847" stroke="#1a1b27" stroke-width="2"/><circle cx="233.33333333333331" cy="67.33333333333333" r="4" fill="#f8d847" stroke="#1a1b27" stroke-width="2"/><circle cx="350" cy="42" r="4" fill="#f8d847" stroke="#1a1b27" stroke-width="2"/><circle cx="466.66666666666663" cy="44.66666666666667" r="4" fill="#f8d847" stroke="#1a1b27" stroke-width="2"/><circle cx="583.3333333333334" cy="64.66666666666667" r="4" fill="#f8d847" stroke="#1a1b27" stroke-width="2"/><circle cx="700" cy="80" r="4" fill="#f8d847" stroke="#1a1b27" stroke-width="2"/>
+        <path d="M 0 54.66666666666667 L 23.333333333333332 66.66666666666667 L 46.666666666666664 66.66666666666667 L 70 78 L 93.33333333333333 76 L 116.66666666666666 75.33333333333333 L 140 66 L 163.33333333333334 73.33333333333333 L 186.66666666666666 72.66666666666667 L 210 67.33333333333333 L 233.33333333333331 77.33333333333333 L 256.66666666666663 40 L 280 72.66666666666667 L 303.33333333333337 60.666666666666664 L 326.6666666666667 42 L 350 28 L 373.3333333333333 45.33333333333333 L 396.66666666666663 10 L 420 39.33333333333333 L 443.3333333333333 44.66666666666667 L 466.66666666666663 58 L 489.99999999999994 46.66666666666667 L 513.3333333333333 40.666666666666664 L 536.6666666666667 47.333333333333336 L 560 64.66666666666667 L 583.3333333333334 75.33333333333333 L 606.6666666666667 61.33333333333333 L 630 58.666666666666664 L 653.3333333333334 72 L 676.6666666666666 80 L 700 80 L 700 80 L 0 80 Z" fill="url(#graphGradient)"/>
+        <path d="M 0 54.66666666666667 L 23.333333333333332 66.66666666666667 L 46.666666666666664 66.66666666666667 L 70 78 L 93.33333333333333 76 L 116.66666666666666 75.33333333333333 L 140 66 L 163.33333333333334 73.33333333333333 L 186.66666666666666 72.66666666666667 L 210 67.33333333333333 L 233.33333333333331 77.33333333333333 L 256.66666666666663 40 L 280 72.66666666666667 L 303.33333333333337 60.666666666666664 L 326.6666666666667 42 L 350 28 L 373.3333333333333 45.33333333333333 L 396.66666666666663 10 L 420 39.33333333333333 L 443.3333333333333 44.66666666666667 L 466.66666666666663 58 L 489.99999999999994 46.66666666666667 L 513.3333333333333 40.666666666666664 L 536.6666666666667 47.333333333333336 L 560 64.66666666666667 L 583.3333333333334 75.33333333333333 L 606.6666666666667 61.33333333333333 L 630 58.666666666666664 L 653.3333333333334 72 L 676.6666666666666 80 L 700 80" fill="none" stroke="#f8d847" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="0" cy="54.66666666666667" r="4" fill="#f8d847" stroke="#1a1b27" stroke-width="2"/><circle cx="116.66666666666666" cy="75.33333333333333" r="4" fill="#f8d847" stroke="#1a1b27" stroke-width="2"/><circle cx="233.33333333333331" cy="77.33333333333333" r="4" fill="#f8d847" stroke="#1a1b27" stroke-width="2"/><circle cx="350" cy="28" r="4" fill="#f8d847" stroke="#1a1b27" stroke-width="2"/><circle cx="466.66666666666663" cy="58" r="4" fill="#f8d847" stroke="#1a1b27" stroke-width="2"/><circle cx="583.3333333333334" cy="75.33333333333333" r="4" fill="#f8d847" stroke="#1a1b27" stroke-width="2"/><circle cx="700" cy="80" r="4" fill="#f8d847" stroke="#1a1b27" stroke-width="2"/>
       </g>
-      <g transform="translate(52, 152)"><text x="0" y="0" text-anchor="middle" font-size="10" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.2">26</text><text x="163.33333333333334" y="0" text-anchor="middle" font-size="10" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.2">3</text><text x="326.6666666666667" y="0" text-anchor="middle" font-size="10" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.2">10</text><text x="489.99999999999994" y="0" text-anchor="middle" font-size="10" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.2">17</text><text x="653.3333333333334" y="0" text-anchor="middle" font-size="10" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.2">24</text><text x="700" y="0" text-anchor="middle" font-size="10" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.2">26</text></g>
+      <g transform="translate(52, 152)"><text x="0" y="0" text-anchor="middle" font-size="10" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.2">27</text><text x="163.33333333333334" y="0" text-anchor="middle" font-size="10" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.2">4</text><text x="326.6666666666667" y="0" text-anchor="middle" font-size="10" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.2">11</text><text x="489.99999999999994" y="0" text-anchor="middle" font-size="10" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.2">18</text><text x="653.3333333333334" y="0" text-anchor="middle" font-size="10" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.2">25</text><text x="700" y="0" text-anchor="middle" font-size="10" fill="#a9fef7" font-family="'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, system-ui, sans-serif" letter-spacing="0.2">27</text></g>
     </g>
 </svg>
