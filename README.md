@@ -8,7 +8,7 @@ Research Scientist @ [MindLab-Research](https://github.com/MindLab-Research) · 
 
 **Start here**
 
-- **[pegainfer](https://github.com/pegainfer-project/pegainfer)** · 730★ — an LLM inference engine in Rust + CUDA. No PyTorch on the box, OpenAI-compatible at the door.
+- **[pegainfer](https://github.com/pegainfer-project/pegainfer)** · 730★ — an LLM inference engine in Rust + CUDA, no PyTorch on the box. I contributed its Qwen3 LoRA serving path.
 - **[DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar)** · 4783★ — an open sidebar where file editing, terminal, Git and sub-agent views are first-class pages, not bolted-on plugins.
 - **[curvine](https://github.com/CurvineIO/curvine)** · 1034★ — a CNCF Sandbox project I contribute to: a high-speed cache with file semantics in front of cloud object storage.
 
@@ -18,8 +18,7 @@ Research Scientist @ [MindLab-Research](https://github.com/MindLab-Research) · 
 
 **[pegainfer](https://github.com/pegainfer-project/pegainfer)** · 730★ · Rust + CUDA
 
-For teams that have to put a model behind an API without dragging a Python runtime into production: Qwen3 through Kimi-K2, kernels in CUDA, hot path in Rust, and the contract at the edge is the OpenAI API you already speak.
-<!-- PLACEHOLDER: 你在 pegainfer 里的确切角色（lead maintainer / 主要作者 / 共建？）写一句，比"参与"有说服力 -->
+For teams that have to put a model behind an API without dragging a Python runtime into production. I contributed its Qwen3 LoRA serving path: request-level adapters, tensor-parallel adapter loading, mixed LoRA batches, and the router extension that keeps the vLLM-compatible front end in step.
 
 **[DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar)** · 4783★
 
