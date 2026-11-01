@@ -17,14 +17,17 @@ Research Scientist @ [MindLab-Research](https://github.com/MindLab-Research) · 
 ## 🔧 Selected Work
 
 **[pegainfer](https://github.com/pegainfer-project/pegainfer)** · 730★ · Rust + CUDA
+
 For teams that have to put a model behind an API without dragging a Python runtime into production: Qwen3 through Kimi-K2, kernels in CUDA, hot path in Rust, and the contract at the edge is the OpenAI API you already speak.
 <!-- PLACEHOLDER: 你在 pegainfer 里的确切角色（lead maintainer / 主要作者 / 共建？）写一句，比"参与"有说服力 -->
 
 **[DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar)** · 4783★
+
 For people who spend the day inside an agent sidebar: extensions register their own pages and stand on the same footing as the built-in file rendering/editing, terminal, side chat, Git and sub-agent views — so the sidebar is a platform, not a fixed set of tabs.
 <!-- PLACEHOLDER: 一句话点出它解决的痛点场景（例如"多个 agent 并行时来回切窗口"），会比现在的功能列表更抓人 -->
 
 **[curvine](https://github.com/CurvineIO/curvine)** · 1034★
+
 For ML teams whose datasets outgrow local disks: cloud object storage gets a file-semantic layer plus a high-speed cache, so training jobs read it like a real filesystem. CNCF Sandbox project — I am a contributor here, not the originator.
 <!-- PLACEHOLDER: 你在 curvine 里的具体角色与贡献范围（facts 里只有 1 条 PR，不足以写成维护者） -->
 
@@ -39,7 +42,9 @@ For ML teams whose datasets outgrow local disks: cloud object storage gets a fil
 Megumin poured her whole life into a single spell, explosion, and refused to diversify. Same instinct here: pick one system, take it apart to the last layer, make it run reliably.
 
 > *何か成す者とは歩み続ける愚者である、成せぬ者とは歩めを止めた賢者である*
+>
 > "成一事者，矢志不渝之愚者；毁一事者，停滞不前之贤者"
+>
 > <sub>—— ロクでなし魔術講師と禁忌教典</sub>
 
 <details>
