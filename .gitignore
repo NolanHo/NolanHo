@@ -1,0 +1,4 @@
+# The 3D contribution action writes one SVG per theme on every run.
+# README.md only references the rainbow one, so keep the rest out of history.
+profile-3d-contrib/*
+!profile-3d-contrib/profile-night-rainbow.svg
