@@ -33,7 +33,7 @@ For ML teams whose datasets outgrow local disks: cloud object storage gets a fil
 ## 🔥 Spirit
 
 <p align="center">
-  <img src="megumin.png" alt="Megumin — one spell, one path" width="220" />
+  <img src="megumin.webp" alt="Megumin — one spell, one path" width="220" />
 </p>
 
 Megumin poured her whole life into a single spell, explosion, and refused to diversify. Same instinct here: pick one system, take it apart to the last layer, make it run reliably.
